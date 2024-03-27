@@ -1,0 +1,32 @@
+:root{
+    --primary-color: #f26d7d;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #d5e3e3 ;
+}
+
+.main-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.canvas-container{
+    background-color: white;
+}
+.heading{
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    
+}
+.drawBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
